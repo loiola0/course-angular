@@ -1,0 +1,35 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta bic",
+      "price": 1.56
+    },
+    {
+      "id": 2,
+      "name": "Lapizeira",
+      "price": 2.43
+    },
+    {
+      "id": 3,
+      "name": "Mochila",
+      "price": 78
+    },
+    {
+      "id": 4,
+      "name": "Caneca",
+      "price": 13
+    },
+    {
+      "id": 5,
+      "name": "Notebook Lenovo",
+      "price": 7000
+    },
+    {
+      "id": 6,
+      "name": "caderno",
+      "price": "23.00"
+      
+    }
+  ]
+}
